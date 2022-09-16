@@ -8,3 +8,8 @@ Instructions:
 4. executable file will be called vm
 5. in eustis, type ./vm < input.txt to run program
 6. in command line, type vm < input.txt to run program
+
+Other files:
+Other files called "mult.txt" and "arithmetic.txt" serve as inputs as well.
+In order to run them, vm.c must be modified on your local machine. 
+Change "input.txt" in line 40 to the name of the file you'd like to run.
