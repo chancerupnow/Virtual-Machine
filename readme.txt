@@ -1,4 +1,6 @@
-Name: Chance Rupnow
+Author: Chance Rupnow
+Class: COP 3402, UCF 2022
+Date: 9/15/22
 
 Instructions:
 1. input file should be named "input.txt"
